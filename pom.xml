@@ -74,6 +74,6 @@
           <version>3.0.0</version>
         </plugin>
     </plugins>
-       <finalname>SoftwareDeveloper</finalname>
-  </build>
+    <finalname>SoftwareDeveloper</finalname>
+   </build>
 </project>
